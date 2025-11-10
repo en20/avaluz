@@ -1,0 +1,336 @@
+1762551598149	geckodriver	INFO	Listening on 127.0.0.1:55365
+1762551601224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileKo6ZmR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762551601500	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1762551601755	Marionette	INFO	Listening on port 55380
+Read port: 55380
+1762551601899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/iavfy/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch.U_MmHbExTnfev1d09NXg1nLvCBb1_9qFX9mThXO1dA-1762551604-1.3.1.1-HIKHPkFieGXgdx1lT1FDhoCwjh60AUIjbSr4kPuSGp8/iavfy/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762551630111	geckodriver	INFO	Listening on 127.0.0.1:55465
+1762551633160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofilevOw3SX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762551633428	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1762551633703	Marionette	INFO	Listening on port 55475
+Read port: 55475
+1762551633820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ajys0/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/0ie8t/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.imovelweb.com.br/casas-apartamentos-venda-cruzeiro-do-sul-ac.html, line 354: Script terminated by timeout at:
+p@https://www.imovelweb.com.br/casas-apartamentos-venda-cruzeiro-do-sul-ac.html:354:6017
+P/<@https://www.imovelweb.com.br/casas-apartamentos-venda-cruzeiro-do-sul-ac.html:354:31840
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.imovelweb.com.br#{%22bundle%22:{%22value%22:null,%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22imovelweb.com.br%22,%22topUrl%22:%22www.imovelweb.com.br%22,%22origin%22:%22rtus%22,%22rtusCallerId%22:844,%22requestId%22:%220.662313632072266%22}, line 13: Script terminated by timeout at:
+o.prototype.logPixel@https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.imovelweb.com.br#{%22bundle%22:{%22value%22:null,%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22imovelweb.com.br%22,%22topUrl%22:%22www.imovelweb.com.br%22,%22origin%22:%22rtus%22,%22rtusCallerId%22:844,%22requestId%22:%220.662313632072266%22}:13:3418
+o.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.imovelweb.com.br#{%22bundle%22:{%22value%22:null,%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22imovelweb.com.br%22,%22topUrl%22:%22www.imovelweb.com.br%22,%22origin%22:%22rtus%22,%22rtusCallerId%22:844,%22requestId%22:%220.662313632072266%22}:13:3152
+o/<@https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.imovelweb.com.br#{%22bundle%22:{%22value%22:null,%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22imovelweb.com.br%22,%22topUrl%22:%22www.imovelweb.com.br%22,%22origin%22:%22rtus%22,%22rtusCallerId%22:844,%22requestId%22:%220.662313632072266%22}:13:3642
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/0unxx/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/irwex/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762551655971	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1762551667099	geckodriver	INFO	Listening on 127.0.0.1:55583
+1762551670163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileOZJA9X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762551670441	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1762551670703	Marionette	INFO	Listening on port 55596
+Read port: 55596
+1762551670821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/3kzza/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.imovelweb.com.br/casas-apartamentos-venda-mancio-lima-ac.html, line 354: Script terminated by timeout at:
+p@https://www.imovelweb.com.br/casas-apartamentos-venda-mancio-lima-ac.html:354:6017
+P/<@https://www.imovelweb.com.br/casas-apartamentos-venda-mancio-lima-ac.html:354:31840
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: Script terminated by timeout at:
+FX@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:127279
+Fw@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:38946
+yVyKC@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:99223
+nt@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:100879
+n9@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:130330
+n3/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:133020
+n3/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:133216
+n3@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:133257
+n9@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:130353
+n3/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:133020
+n3/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:133216
+n3@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:133257
+n9@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:130330
+n3/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:133020
+n3/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:133216
+n3@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:133257
+n9@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:130330
+n3/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:133020
+n3/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:133216
+n3@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ri0xr/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:133257
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.imovelweb.com.br#{%22bundle%22:{%22value%22:null,%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22imovelweb.com.br%22,%22topUrl%22:%22www.imovelweb.com.br%22,%22origin%22:%22rtus%22,%22rtusCallerId%22:844,%22requestId%22:%220.03719591477410078%22}, line 13: Script terminated by timeout at:
+o.prototype.logPixel@https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.imovelweb.com.br#{%22bundle%22:{%22value%22:null,%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22imovelweb.com.br%22,%22topUrl%22:%22www.imovelweb.com.br%22,%22origin%22:%22rtus%22,%22rtusCallerId%22:844,%22requestId%22:%220.03719591477410078%22}:13:3418
+o.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.imovelweb.com.br#{%22bundle%22:{%22value%22:null,%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22imovelweb.com.br%22,%22topUrl%22:%22www.imovelweb.com.br%22,%22origin%22:%22rtus%22,%22rtusCallerId%22:844,%22requestId%22:%220.03719591477410078%22}:13:3152
+o/<@https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.imovelweb.com.br#{%22bundle%22:{%22value%22:null,%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22imovelweb.com.br%22,%22topUrl%22:%22www.imovelweb.com.br%22,%22origin%22:%22rtus%22,%22rtusCallerId%22:844,%22requestId%22:%220.03719591477410078%22}:13:3642
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/pqe24/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762551677850	Marionette	INFO	Stopped listening on port 55596
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.error: (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: (new Error("OHTTP was configured for https://ads.mozilla.org/v1/delete_user but we couldn't fetch a valid config", "moz-src:///browser/modules/ContextId.sys.mjs", 234))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ObliviousHTTP.sys.mjs, line 117: NS_ERROR_XPC_CANT_CONVERT_PRIMITIVE_TO_ARRAY: Cannot convert primitive JavaScript value into an array arg 2 [nsIObliviousHttpService.newChannel]
+JavaScript error: chrome://remote/content/shared/webdriver/Certificates.sys.mjs, line 79: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1762552066797	geckodriver	INFO	Listening on 127.0.0.1:55835
+1762552069858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileJDrxdy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762552070149	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1762552070413	Marionette	INFO	Listening on port 55847
+Read port: 55847
+1762552070506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/monys/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.imovelweb.com.br/casas-apartamentos-venda-brasileia-ac.html, line 363: Script terminated by timeout at:
+p@https://www.imovelweb.com.br/casas-apartamentos-venda-brasileia-ac.html:363:6017
+P/<@https://www.imovelweb.com.br/casas-apartamentos-venda-brasileia-ac.html:363:31840
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: Script terminated by timeout at:
+Aa@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:90442
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:108789
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109148
+A5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109179
+AX@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:56924
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:108789
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109148
+A5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109179
+AX@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:56924
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:108789
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109148
+A5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109179
+AX@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:56901
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:108789
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109148
+A5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109179
+AX@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:56901
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:108789
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109148
+A5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109179
+AX@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:56901
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:108789
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109148
+A5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109179
+AX@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:56924
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:108789
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109148
+A5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109179
+AX@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:56901
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:108789
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109148
+A5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109179
+AX@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:56901
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:108789
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109148
+A5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ym14q/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:109179
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.imovelweb.com.br#{%22bundle%22:{%22value%22:null,%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22imovelweb.com.br%22,%22topUrl%22:%22www.imovelweb.com.br%22,%22origin%22:%22rtus%22,%22rtusCallerId%22:844,%22requestId%22:%220.7435725699774492%22}, line 13: Script terminated by timeout at:
+o.prototype.logPixel@https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.imovelweb.com.br#{%22bundle%22:{%22value%22:null,%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22imovelweb.com.br%22,%22topUrl%22:%22www.imovelweb.com.br%22,%22origin%22:%22rtus%22,%22rtusCallerId%22:844,%22requestId%22:%220.7435725699774492%22}:13:3418
+o.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.imovelweb.com.br#{%22bundle%22:{%22value%22:null,%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22imovelweb.com.br%22,%22topUrl%22:%22www.imovelweb.com.br%22,%22origin%22:%22rtus%22,%22rtusCallerId%22:844,%22requestId%22:%220.7435725699774492%22}:13:3152
+o/<@https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.imovelweb.com.br#{%22bundle%22:{%22value%22:null,%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22imovelweb.com.br%22,%22topUrl%22:%22www.imovelweb.com.br%22,%22origin%22:%22rtus%22,%22rtusCallerId%22:844,%22requestId%22:%220.7435725699774492%22}:13:3642
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/6vvjs/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/2iwld/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762552092531	Marionette	INFO	Stopped listening on port 55847
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.error: (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: (new Error("OHTTP was configured for https://ads.mozilla.org/v1/delete_user but we couldn't fetch a valid config", "moz-src:///browser/modules/ContextId.sys.mjs", 234))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ObliviousHTTP.sys.mjs, line 117: NS_ERROR_XPC_CANT_CONVERT_PRIMITIVE_TO_ARRAY: Cannot convert primitive JavaScript value into an array arg 2 [nsIObliviousHttpService.newChannel]
+JavaScript error: chrome://remote/content/shared/webdriver/Certificates.sys.mjs, line 79: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1762553445359	geckodriver	INFO	Listening on 127.0.0.1:57006
+1762553448431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... o) Chrome/120.0.0.0 Safari/537.36\'" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofilestprMe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762553448689	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+1762553448753	Marionette	INFO	Listening on port 57016
+Read port: 57016
+1762553448945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ykljx/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/zjofn/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchGQv9XyxlrCB1_37xlKCp8nA_LVBh6aQnhPjzYu9jJpI-1762553451-1.3.1.1-LzkEWaGwTOibzZHoqAmRAl.glCuSbJpa7UgKaxvlB98/ykljx/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/ytxiw/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762553539081	geckodriver	INFO	Listening on 127.0.0.1:57138
+1762553542149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... o) Chrome/120.0.0.0 Safari/537.36\'" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileesNHL4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762553542420	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+1762553542489	Marionette	INFO	Listening on port 57151
+Read port: 57151
+1762553542641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/5ro3b/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/t2jxb/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762553548582	Marionette	INFO	Stopped listening on port 57151
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.error: (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: (new Error("OHTTP was configured for https://ads.mozilla.org/v1/delete_user but we couldn't fetch a valid config", "moz-src:///browser/modules/ContextId.sys.mjs", 234))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ObliviousHTTP.sys.mjs, line 117: NS_ERROR_XPC_CANT_CONVERT_PRIMITIVE_TO_ARRAY: Cannot convert primitive JavaScript value into an array arg 2 [nsIObliviousHttpService.newChannel]
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 85: Error: Unknown callback
+1762553549434	geckodriver	INFO	Listening on 127.0.0.1:57215
+1762553552498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofilezcFqIK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762553552774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1762553553049	Marionette	INFO	Listening on port 57232
+Read port: 57232
+1762553553171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/dknxb/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/109a8/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762553567965	Marionette	INFO	Stopped listening on port 57232
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.error: (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: (new Error("OHTTP was configured for https://ads.mozilla.org/v1/delete_user but we couldn't fetch a valid config", "moz-src:///browser/modules/ContextId.sys.mjs", 234))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ObliviousHTTP.sys.mjs, line 117: NS_ERROR_XPC_CANT_CONVERT_PRIMITIVE_TO_ARRAY: Cannot convert primitive JavaScript value into an array arg 2 [nsIObliviousHttpService.newChannel]
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 85: Error: Unknown callback
+1762553568741	geckodriver	INFO	Listening on 127.0.0.1:57298
+1762553571805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileUb6tME"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762553572079	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1762553572346	Marionette	INFO	Listening on port 57308
+Read port: 57308
+1762553572467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/e09cv/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/p47br/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchFj4k6BcgwoIvqSXyxlY2BalGA01ny6jO6Vfm4C4Jkr4-1762553575-1.3.1.1-MU5xpZ8B7jRm25FB2ltA6NzUJ53SgvwamDXklRmAzpM/e09cv/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchM6.V4RXvQboBIYPQAhf1UHpW2Gwvc2W5ZOyOHHpW_ag-1762553587-1.3.1.1-DbJKMzAkk9dpNArZFN0HxU1o8vyB1tlWHgfBvak..ew/e09cv/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchUsiyUKqCFbqwWOnYGoFoQjZIRb1_f54tkOGZo8CMaSw-1762553599-1.3.1.1-l7MZqd5wilMWPo54mKaTwGPAchrYDe9WM2b8ZMdhEi8/e09cv/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchQkRin6C8HajZcly9rvPBVYQhztf7gmtN33j4xHKOAMM-1762553610-1.3.1.1-hWPF29x_IVUjuF1MY3hqnKw25zg2.64vnNeqmVyiJLU/e09cv/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchhwwCBzh38C0X91g8AyG085EbaA584xYOfPpe213p7Uw-1762553621-1.3.1.1-saQKiBHKQFEvpXqsi3lsy9bT5OJTTTmNwsbpuxuHxi0/e09cv/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch7nCxzyZn_VAub06xXThysZjbBVTCxGXD9RAn8nYwoCk-1762553632-1.3.1.1-62JIgK.EUrpTr2KbtPknL1MJjr_CJJOUrK4ZJFLQ4Iw/e09cv/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762553660756	geckodriver	INFO	Listening on 127.0.0.1:57412
+1762553663834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... o) Chrome/120.0.0.0 Safari/537.36\'" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofilebZbtWl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762553664085	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+1762553664152	Marionette	INFO	Listening on port 57422
+Read port: 57422
+1762553664335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/gddtx/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/4v72t/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchzCik3CSmsz.OhaoidCZ79T0toHSpOnsqJRCOMdI_Y2c-1762553667-1.3.1.1-G8ToAOmiNKPcQY9l3lW2GDm26y00LmRAQDPNntl7C.U/gddtx/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchyKc3ePhPL7PktLfbCWcyuOhQJm94KIbKfSGKDPgKIS8-1762553679-1.3.1.1-Rba8_zOc8zirVww5qcIWs9ycJj84YvpgaLouf.JzqrA/gddtx/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch0.KC0hB11yuQG4m4vlAb6gORdUrdoyuGZ.KHDrIjOmQ-1762553690-1.3.1.1-gvFh2BAEBKT5G6O4_w2DEo0MVA4B.QWLFnKXbT10rb8/gddtx/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchulJ_Y5VT9QIl9W0q4fKlhm3LDQ8xrhm2cp6tP6s_6kk-1762553701-1.3.1.1-NJQa08suxHfJTV6z.ejY1g3SgF1C8h01rbri8LsNfjM/gddtx/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchlWGH2j9MOznk092fbkMAp2VANU5t_dY4vJExs76CykM-1762553713-1.3.1.1-C9_gLOwDDUWph12b5_zIfC4wbymANlEOqxdS2shEVls/gddtx/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch7D5I6mfHJ3dC8WlU_zvXj0W5DIY8dDsUegGMolWbesw-1762553724-1.3.1.1-HyWMkp2GwPQZEK42Emj.w_jTnqc.Oln7L8DdixtGXyw/gddtx/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchH3EOyPlcpFQz8espBHnGtOnytQxtVaWsepAyCoOl5ek-1762553735-1.3.1.1-2mGonQT.u7t6ksVUymovPsDRoIBhG1YT0YIXSow4on8/gddtx/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762553751227	Marionette	INFO	Stopped listening on port 57422
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: (new Error("OHTTP was configured for https://ads.mozilla.org/v1/delete_user but we couldn't fetch a valid config", "moz-src:///browser/modules/ContextId.sys.mjs", 234))
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ObliviousHTTP.sys.mjs, line 117: NS_ERROR_XPC_CANT_CONVERT_PRIMITIVE_TO_ARRAY: Cannot convert primitive JavaScript value into an array arg 2 [nsIObliviousHttpService.newChannel]
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 85: Error: Unknown callback
+1762553759191	geckodriver	INFO	Listening on 127.0.0.1:57518
+1762553762258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofilerBGf5D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762553762539	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1762553762801	Marionette	INFO	Listening on port 57536
+Read port: 57536
+1762553762931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/nlni0/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/gi1z8/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762553776928	Marionette	INFO	Stopped listening on port 57536
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.error: (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: (new Error("OHTTP was configured for https://ads.mozilla.org/v1/delete_user but we couldn't fetch a valid config", "moz-src:///browser/modules/ContextId.sys.mjs", 234))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ObliviousHTTP.sys.mjs, line 117: NS_ERROR_XPC_CANT_CONVERT_PRIMITIVE_TO_ARRAY: Cannot convert primitive JavaScript value into an array arg 2 [nsIObliviousHttpService.newChannel]
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 85: Error: Unknown callback
+1762553777685	geckodriver	INFO	Listening on 127.0.0.1:57599
+1762553780731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileFQVOWy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762553781012	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1762553781267	Marionette	INFO	Listening on port 57609
+Read port: 57609
+1762553781393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/l3nlr/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/offpo/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762553786795	Marionette	INFO	Stopped listening on port 57609
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.error: (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: (new Error("OHTTP was configured for https://ads.mozilla.org/v1/delete_user but we couldn't fetch a valid config", "moz-src:///browser/modules/ContextId.sys.mjs", 234))
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ObliviousHTTP.sys.mjs, line 117: NS_ERROR_XPC_CANT_CONVERT_PRIMITIVE_TO_ARRAY: Cannot convert primitive JavaScript value into an array arg 2 [nsIObliviousHttpService.newChannel]
+JavaScript error: resource://services-settings/RemoteSettingsClient.sys.mjs, line 85: Error: Unknown callback
+1762553787802	geckodriver	INFO	Listening on 127.0.0.1:57656
+1762553790870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofileazaNMx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762553791157	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1762553791423	Marionette	INFO	Listening on port 57673
+Read port: 57673
+1762553791543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/r7ov4/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/w2ci2/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchuIwmtgN.2l8NSFNg8Gpg90m1kZ1EuLqyqJEo7W5OMh4-1762553794-1.3.1.1-Y0ZQV5cybYiy7uPCYd07NAE9bIXFi6_DAVb4r1CIr_s/r7ov4/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchmm6CCV8jLRi6SWUeMEGstzqHO0bD48n8xSuMruEBKKw-1762553806-1.3.1.1-2lYSeuZqvns5EU3vgTh8efJzhPlfcdCJwwcyHQ42L.I/r7ov4/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchwjwohpM4qx8aUvGVcCtnrKX_TyGdeg5ARW8tLvQh7Z4-1762553817-1.3.1.1-uW8dqpE25XddBV_5iWvNPWPZyjmPE3E6MN.8YiP23k0/r7ov4/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1762553847365	geckodriver	INFO	Listening on 127.0.0.1:57760
+1762553850406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControl ... o) Chrome/120.0.0.0 Safari/537.36\'" "-no-remote" "-profile" "C:\\Users\\Murilo\\AppData\\Local\\Temp\\rust_mozprofile3adRZq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1762553850655	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+1762553850721	Marionette	INFO	Listening on port 57776
+Read port: 57776
+1762553850908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/acrh0/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/e2xrn/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchrtFK0mAZ9P7UDXUfgy2eJ0emAKigQh2TethEvHOYrKY-1762553854-1.3.1.1-JtnggD8ajtF4qHd4BFBNZro4OOA8o2wS5T8dIdj.BNo/acrh0/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchj6bft6U9_XheWHsNs8o_DHauLM2H0asJ_TOyYwBnZH4-1762553865-1.3.1.1-S3v02BP0O0NcOXl4WxbqAWNUKj3cxUHCsv03ny_.M7Y/acrh0/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rchdjFWMPhq6N8XsMm4H99S.w4OSAwJ4RibK7vu_LbDzGI-1762553877-1.3.1.1-FmEYbBwNnPQCkTgoBzgi688mDrP_zNL0KPagPe.LO8Q/acrh0/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch.o1L6CiCXK3vmT9IivuM2aAXMBTcKlAPzHPSTlCrNKk-1762553888-1.3.1.1-emgsOFYVTS8tAKkTm8_JoOsdIrUHhviWRW8lsZ4Suh4/acrh0/0x4AAAAAAAckPqiZU31bW500/auto/fbE/failure_retry/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/9ggnz/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/7jgrc/0x4AAAAAAAckPqiZU31bW500/auto/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/kzgzc/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/0uxgh/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.imovelweb.com.br/casas-apartamentos-venda-rio-branco-ac-pagina-2.html" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.imovelweb.com.br/casas-apartamentos-venda-rio-branco-ac-pagina-2.html?__cf_chl_rt_tk=3en4K9tQrINAb_bjT5WTWrRMDpmcpxVrcV0_4ummRHY-1762553921-1.0.1.1-B5nuvVKVFPQsKTi_Q3Yk5MROXuqLFnXdge4jqYHFpQM" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.imovelweb.com.br/casas-apartamentos-venda-rio-branco-ac-pagina-2.html?__cf_chl_rt_tk=MdLr2Jp8a83bBHVURGgrsnvTavbXagaFgyPT1NTRZ0g-1762553910-1.0.1.1-BNIE0X0SbRPovC.b3wROg.1YJtqRgoIO3CmK.z9Ve7A" [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/0uxgh/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto line 1 > eval, line 1: Script terminated by timeout at:
+@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/0uxgh/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto line 1 > eval:1:1337360
+AX@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/0uxgh/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:149172
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/0uxgh/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:129551
+A5/<@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/0uxgh/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:130428
+A5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/0uxgh/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:1:130459
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/qkhta/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

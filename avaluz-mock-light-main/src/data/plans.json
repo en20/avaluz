@@ -1,0 +1,72 @@
+[
+  {
+    "id": "free",
+    "name": "Grátis",
+    "subtitle": "Iniciante",
+    "price": 0,
+    "credits": 2,
+    "features": [
+      "2 avaliações mensais",
+      "Valor do imóvel",
+      "Valor do aluguel"
+    ],
+    "recommended": false
+  },
+  {
+    "id": "owner",
+    "name": "Proprietário",
+    "subtitle": "Para proprietários",
+    "price": 29,
+    "credits": 10,
+    "features": [
+      "10 avaliações mensais",
+      "Valor do imóvel",
+      "Valor do aluguel",
+      "Projeção de valorização (6 meses e 1 ano)",
+      "Histórico",
+      "Suporte",
+      "Noticiário mensal do mercado imobiliário"
+    ],
+    "recommended": false
+  },
+  {
+    "id": "professional",
+    "name": "Profissional",
+    "subtitle": "Para corretores ativos",
+    "price": 97,
+    "credits": -1,
+    "features": [
+      "Avaliações ilimitadas",
+      "Valor do imóvel",
+      "Valor do aluguel",
+      "Bate-papo sobre imóveis e pesquisas de mercado",
+      "Projeção de valorização (6 meses e 1 ano)",
+      "Histórico",
+      "Suporte",
+      "Noticiário mensal do mercado imobiliário",
+      "Leitura de vídeo",
+      "Leitura de imagem"
+    ],
+    "recommended": true
+  },
+  {
+    "id": "realestate",
+    "name": "Imobiliária",
+    "subtitle": "Para equipes de até 8 pessoas",
+    "price": 497,
+    "credits": -1,
+    "features": [
+      "Até 8 pessoas",
+      "Valor do imóvel",
+      "Valor do aluguel",
+      "Avaliações ilimitadas",
+      "Chat sobre imóveis e imóveis mais vendidos",
+      "Projeção de valorização (6 meses e 1 ano)",
+      "Histórico",
+      "Suporte prioritário",
+      "Noticiário mensal do mercado imobiliário",
+      "Relatórios avançados"
+    ],
+    "recommended": false
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "address": "Av. T-4, 900 - Setor Bueno, Goiânia - GO",
+    "size": 95,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 520000,
+    "price_per_sqm": 5474,
+    "distance": "0.3 km",
+    "sold_date": "2024-10-15",
+    "similarity_score": 94
+  },
+  {
+    "id": 2,
+    "address": "Rua Bela Vista, 150 - Setor Bueno, Goiânia - GO",
+    "size": 100,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 555000,
+    "price_per_sqm": 5550,
+    "distance": "0.5 km",
+    "sold_date": "2024-09-22",
+    "similarity_score": 91
+  },
+  {
+    "id": 3,
+    "address": "Rua 1125, 456 - Setor Marista, Goiânia - GO",
+    "size": 92,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 510000,
+    "price_per_sqm": 5543,
+    "distance": "1.2 km",
+    "sold_date": "2024-11-01",
+    "similarity_score": 88
+  },
+  {
+    "id": 4,
+    "address": "Av. República do Líbano, 789 - Setor Oeste, Goiânia - GO",
+    "size": 105,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "price": 580000,
+    "price_per_sqm": 5524,
+    "distance": "1.8 km",
+    "sold_date": "2024-10-28",
+    "similarity_score": 85
+  }
+]

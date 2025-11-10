@@ -1,0 +1,32 @@
+{
+  "cep": "74810-100",
+  "address": "Rua das Palmeiras, 123 - Setor Bueno, Goiânia - GO",
+  "forSale": "sale",
+  "category": "residential",
+  "size": 98,
+  "type": "apartment",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "parking": 2,
+  "ratings": {
+    "location": 4,
+    "floorPlan": 4,
+    "finishQuality": 4,
+    "conservation": 4,
+    "commonAreas": 3
+  },
+  "legalStatus": "registered",
+  "condoFee": 450,
+  "iptu": 1200,
+  "nearbyPlaces": "Shopping Flamboyant (2km), Colégio Master (500m), Hospital Albert Einstein (1km), Parque Vaca Brava (1.5km)",
+  "price_estimate": 540000,
+  "rent_estimate": 2800,
+  "confidence": "Alta",
+  "confidence_score": 92,
+  "market_summary": "O imóvel está em uma região valorizada com crescimento de 6% ao ano. O Setor Bueno é conhecido por sua infraestrutura completa e alta demanda.",
+  "ai_description": "Este imóvel apresenta excelente valorização, combinando conforto e ótima localização. Com 98m² bem distribuídos, o apartamento oferece três quartos espaçosos e duas vagas de garagem. A região do Setor Bueno destaca-se pela proximidade a shopping centers, hospitais e escolas de qualidade. O mercado local tem demonstrado crescimento consistente, tornando este um investimento seguro e promissor.",
+  "price_per_sqm": 5510,
+  "appreciation_trend": "Crescente",
+  "appreciation_rate": 6.2,
+  "market_liquidity": "Alta"
+}

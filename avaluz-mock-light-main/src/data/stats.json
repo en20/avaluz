@@ -1,0 +1,30 @@
+{
+  "total_evaluations": 12847,
+  "active_users": 3421,
+  "average_confidence": 91,
+  "cities_covered": 156,
+  "growth_rate": 6.2,
+  "testimonials": [
+    {
+      "name": "Carlos Mendes",
+      "role": "Corretor Autônomo",
+      "avatar": "CM",
+      "text": "AvaLuz transformou minha forma de trabalhar. Consigo apresentar avaliações profissionais aos meus clientes em minutos.",
+      "rating": 5
+    },
+    {
+      "name": "Marina Silva",
+      "role": "Consultora Imobiliária",
+      "avatar": "MS",
+      "text": "A clareza dos relatórios e a precisão das análises me dão confiança total nas negociações.",
+      "rating": 5
+    },
+    {
+      "name": "Roberto Alves",
+      "role": "Gestor de Imobiliária",
+      "avatar": "RA",
+      "text": "Implementamos AvaLuz em toda nossa operação. O ROI foi imediato e nossos corretores adoraram.",
+      "rating": 5
+    }
+  ]
+}

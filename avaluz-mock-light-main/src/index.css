@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Inter:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* AvaLuz Design System - "A Luz do Mercado Imobiliário" 
+   Theme: Clarity, Light, Trust, Inspiration
+   All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Core Brand Colors - AvaLuz */
+    --background: 210 40% 98%; /* #F8FAFC - Luminoso e limpo */
+    --foreground: 207 85% 25%; /* #0A3F74 - Azul confiança */
+
+    --card: 0 0% 100%;
+    --card-foreground: 207 85% 25%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 207 85% 25%;
+
+    /* Primary - Azul Confiança */
+    --primary: 207 85% 25%; /* #0A3F74 */
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 207 85% 35%;
+
+    /* Accent - Laranja Luz */
+    --accent: 23 92% 45%; /* #DF6009 */
+    --accent-foreground: 0 0% 100%;
+    --accent-glow: 23 92% 55%;
+
+    /* Secondary - Soft Blues */
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 207 85% 25%;
+
+    /* Muted - Subtle Grays */
+    --muted: 210 30% 94%;
+    --muted-foreground: 215 16% 47%;
+
+    /* Destructive */
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    /* Borders & Inputs */
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 207 85% 25%;
+
+    --radius: 0.75rem;
+
+    /* Gradients - Luz theme */
+    --gradient-hero: linear-gradient(135deg, hsl(207 85% 25%) 0%, hsl(207 85% 35%) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(23 92% 45%) 0%, hsl(23 92% 55%) 100%);
+    --gradient-light: linear-gradient(180deg, hsl(210 40% 98%) 0%, hsl(0 0% 100%) 100%);
+    
+    /* Shadows - Soft & Luminous */
+    --shadow-card: 0 2px 12px rgba(10, 63, 116, 0.05);
+    --shadow-card-hover: 0 8px 24px rgba(10, 63, 116, 0.1);
+    --shadow-glow: 0 0 30px rgba(223, 96, 9, 0.2);
+    
+    /* Transitions */
+    --transition-smooth: all 0.3s ease-in-out;
+    --transition-fast: all 0.15s ease-in-out;
+  }
+
+  .dark {
+    --background: 207 85% 8%;
+    --foreground: 210 40% 98%;
+
+    --card: 207 85% 12%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 207 85% 12%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 23 92% 45%;
+    --primary-foreground: 0 0% 100%;
+
+    --accent: 207 85% 35%;
+    --accent-foreground: 0 0% 100%;
+
+    --secondary: 207 70% 15%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 207 70% 15%;
+    --muted-foreground: 215 20% 65%;
+
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 207 70% 15%;
+    --input: 207 70% 15%;
+    --ring: 23 92% 45%;
+
+    --shadow-card: 0 2px 12px rgba(0, 0, 0, 0.3);
+    --shadow-card-hover: 0 8px 24px rgba(0, 0, 0, 0.4);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    line-height: 1.6;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+}
+
+@layer components {
+  /* Hero Section Styles */
+  .hero-gradient {
+    background: var(--gradient-hero);
+  }
+
+  .accent-gradient {
+    background: var(--gradient-accent);
+  }
+
+  /* Card with Glow Effect */
+  .card-glow {
+    box-shadow: var(--shadow-card);
+    transition: var(--transition-smooth);
+  }
+
+  .card-glow:hover {
+    box-shadow: var(--shadow-card-hover);
+    transform: translateY(-2px);
+  }
+
+  /* Shine Animation for Featured Elements */
+  @keyframes shine {
+    0% {
+      background-position: -200% center;
+    }
+    100% {
+      background-position: 200% center;
+    }
+  }
+
+  .shine-effect {
+    background: linear-gradient(
+      90deg,
+      transparent 0%,
+      rgba(255, 255, 255, 0.1) 45%,
+      rgba(255, 255, 255, 0.3) 50%,
+      rgba(255, 255, 255, 0.1) 55%,
+      transparent 100%
+    );
+    background-size: 200% 100%;
+    animation: shine 3s ease-in-out infinite;
+  }
+
+  /* Glow Pulse for CTA */
+  @keyframes glow-pulse {
+    0%, 100% {
+      box-shadow: 0 0 20px rgba(223, 96, 9, 0.3);
+    }
+    50% {
+      box-shadow: 0 0 30px rgba(223, 96, 9, 0.5);
+    }
+  }
+
+  .glow-pulse {
+    animation: glow-pulse 2s ease-in-out infinite;
+  }
+
+  /* Flash of Light for Report Generation */
+  @keyframes flash-light {
+    0% {
+      opacity: 0;
+      transform: scale(0.8);
+    }
+    50% {
+      opacity: 1;
+      transform: scale(1.1);
+    }
+    100% {
+      opacity: 0;
+      transform: scale(1);
+    }
+  }
+
+  .flash-light {
+    animation: flash-light 0.6s ease-out;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}

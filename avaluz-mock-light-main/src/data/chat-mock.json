@@ -1,0 +1,11 @@
+{
+  "responses": {
+    "greeting": "Olá! Sou a Ava, sua assistente de avaliação imobiliária. Como posso iluminar seu conhecimento sobre o mercado hoje?",
+    "value_inquiry": "Com base em imóveis similares na região do Setor Bueno, estimamos o valor do seu imóvel em R$ 540.000. Esta estimativa possui alta confiança (92%) devido à quantidade de comparáveis disponíveis.",
+    "market_trend": "O mercado imobiliário em Goiânia tem apresentado crescimento consistente de 6,2% ao ano, especialmente em regiões nobres como Setor Bueno e Marista. A demanda permanece alta devido à excelente infraestrutura.",
+    "rent_suggestion": "Para um imóvel de 98m² nesta localização, o valor de aluguel sugerido é de R$ 2.800/mês, representando um yield de aproximadamente 6,2% ao ano.",
+    "investment_advice": "Este imóvel representa uma excelente oportunidade de investimento. A região possui alta liquidez, infraestrutura completa e tendência de valorização. O retorno esperado combina ganho de capital com renda de aluguel.",
+    "neighborhood_info": "O Setor Bueno é um dos bairros mais valorizados de Goiânia, conhecido por sua segurança, proximidade a centros comerciais e escolas de qualidade. A região conta com fácil acesso às principais vias da cidade.",
+    "default": "Desculpe, não compreendi sua pergunta. Posso ajudar com informações sobre: valor do imóvel, tendências de mercado, sugestões de aluguel, análise de investimento ou informações sobre o bairro."
+  }
+}
