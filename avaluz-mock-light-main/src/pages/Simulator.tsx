@@ -114,7 +114,7 @@ const Simulator = () => {
 
       console.log('Sending to webhook:', webhookData);
 
-      const response = await fetch('/api/webhook', {
+      const response = await fetch('https://memoken.com/webhook/avaluz', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -127,7 +127,7 @@ const Simulator = () => {
       if (!response.ok) {
         const errorText = await response.text();
         console.error('Webhook error response:', errorText);
-        throw new Error(`Failed to send data to webhook: ${response.status} ${errorText}`);
+        throw new Error(`Webhook error: ${response.status}`);
       }
 
       const result = await response.json();
@@ -136,7 +136,7 @@ const Simulator = () => {
       console.log('Setting evaluationResult:', result);
     } catch (error) {
       console.error('Webhook error:', error);
-      toast.error("Erro ao enviar dados para processamento");
+      toast.error("Erro ao processar avaliação. Verifique sua conexão e tente novamente.");
       setIsGenerating(false);
       return;
     }
